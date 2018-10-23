@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewButton</string>
+    <string name="hello">欢迎使用Button测试</string>
+</resources>
